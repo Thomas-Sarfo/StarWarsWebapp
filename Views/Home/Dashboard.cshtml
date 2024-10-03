@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+
+<div class="container">
+    <canvas id="planetChart" width="400" height="200"></canvas>
+</div>
+
+<script id="planetNames" type="application/json">
+    @Html.Raw(Json.Serialize(ViewBag.PlanetNames))
+</script>
+
+<script id="planetPopulations" type="application/json">
+    @Html.Raw(Json.Serialize(ViewBag.PlanetPopulations))
+</script>

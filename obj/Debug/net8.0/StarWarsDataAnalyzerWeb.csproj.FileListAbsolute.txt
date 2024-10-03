@@ -1,0 +1,67 @@
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/appsettings.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb.staticwebassets.runtime.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb.deps.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb.runtimeconfig.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb.dll
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/StarWarsDataAnalyzerWeb.pdb
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/bin/Debug/net8.0/Newtonsoft.Json.dll
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.csproj.AssemblyReference.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.AssemblyInfoInputs.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.AssemblyInfo.cs
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.csproj.CoreCompileInputs.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.RazorAssemblyInfo.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.RazorAssemblyInfo.cs
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.sourcelink.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets/msbuild.StarWarsDataAnalyzerWeb.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets/msbuild.build.StarWarsDataAnalyzerWeb.props
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StarWarsDataAnalyzerWeb.props
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StarWarsDataAnalyzerWeb.props
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/scopedcss/bundle/StarWarsDataAnalyzerWeb.styles.css
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/scopedcss/projectbundle/StarWarsDataAnalyzerWeb.bundle.scp.css
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWars.C624A867.Up2Date
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.dll
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/refint/StarWarsDataAnalyzerWeb.dll
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.pdb
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/StarWarsDataAnalyzerWeb.genruntimeconfig.cache
+/workspaces/star-wars-data-analyzer/StarWarsDataAnalyzerWeb/obj/Debug/net8.0/ref/StarWarsDataAnalyzerWeb.dll
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\appsettings.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.staticwebassets.runtime.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.exe
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.deps.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.runtimeconfig.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.dll
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\StarWarsDataAnalyzerWeb.pdb
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.csproj.AssemblyReference.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.AssemblyInfoInputs.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.AssemblyInfo.cs
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.csproj.CoreCompileInputs.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.RazorAssemblyInfo.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.RazorAssemblyInfo.cs
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets\msbuild.StarWarsDataAnalyzerWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets\msbuild.build.StarWarsDataAnalyzerWeb.props
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StarWarsDataAnalyzerWeb.props
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StarWarsDataAnalyzerWeb.props
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\scopedcss\bundle\StarWarsDataAnalyzerWeb.styles.css
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\scopedcss\projectbundle\StarWarsDataAnalyzerWeb.bundle.scp.css
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWars.C624A867.Up2Date
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.dll
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\refint\StarWarsDataAnalyzerWeb.dll
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.pdb
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\StarWarsDataAnalyzerWeb.genruntimeconfig.cache
+C:\Users\DEV\OneDrive\Desktop\Star wars\StarWarWebapp\obj\Debug\net8.0\ref\StarWarsDataAnalyzerWeb.dll

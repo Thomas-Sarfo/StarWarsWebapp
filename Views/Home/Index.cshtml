@@ -1,0 +1,29 @@
+﻿@model IEnumerable<StarWarsDataAnalyzerWeb.Services.SwapiService.Planet>
+
+@{
+    ViewData["Title"] = "Star Wars";
+}
+
+<h1>Planets</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Climate</th>
+            <th>Terrain</th>
+            <th>Population</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var planet in Model)
+        {
+            <tr>
+                <td>@planet.Name</td>
+                <td>@planet.Climate</td>
+                <td>@planet.Terrain</td>
+                <td>@planet.Population</td>
+            </tr>
+        }
+    </tbody>
+</table>
